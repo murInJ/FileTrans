@@ -1,2 +1,10 @@
-# FileTrans
-a go file transport toolkits
+# FiTrans
+go file transport toolkits
+
+## contributor
+MurInJ
+
+## function
+- send or receive file
+
+now only surport tcp
